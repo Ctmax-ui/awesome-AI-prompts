@@ -1,4 +1,4 @@
-# awesome-AI-prompts.
+# Awesome-AI-Prompts.
 An awesome collections of ai prompts to help you in your everyday life.
 
 ### Prompts adding template. 
